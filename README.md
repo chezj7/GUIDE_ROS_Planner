@@ -42,6 +42,7 @@ Please place the trained checkpoint under:
 
 ```bash
 src/scripts/model/
+```
 
 ### 3. Run the code
 To run the development environment, go to the development environment folder in a terminal and run:
@@ -71,9 +72,13 @@ roslaunch rl_planner rl_planner_tunnel.launch
 
 ## Credit
 [Development environment](https://www.cmu-exploration.com/development-environment) is from CMU.
+
 [Test Environment](https://github.com/SYSU-RoboticsLab/FAEL) is from FAEL
+
 [RL-Based Planner](https://github.com/marmotlab/ARiADNE-ROS-Planner) serves as the foundational framework of this project, upon which the diffusion-based exploration planner is further developed and integrated.
+
 [Octomap](https://octomap.github.io/) is from University of Freiburg.
+
 [Quad tree](https://github.com/toastdriven/quads) is from [Daniel Lindsley](https://github.com/toastdriven).
 
 
