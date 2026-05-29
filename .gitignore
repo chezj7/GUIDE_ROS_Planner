@@ -1,0 +1,10 @@
+*.ckpt
+*.pth
+*.pt
+
+build/
+devel/
+log/
+
+.vscode/
+.idea/
