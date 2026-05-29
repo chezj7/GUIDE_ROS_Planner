@@ -37,6 +37,12 @@ Fortunately, you can test our planner easily in the development environments pro
 
 Please follow instructions for [CMU Development Environment](https://www.cmu-exploration.com/development-environment) to set up the Gazebo simulation, SLAM module, and waypoint follower module.
 
+### Checkpoints
+Please place the trained checkpoint under:
+
+```bash
+src/scripts/model/
+
 ### 3. Run the code
 To run the development environment, go to the development environment folder in a terminal and run:
 ```
